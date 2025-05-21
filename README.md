@@ -4,7 +4,10 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in **C
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita772&show_icons=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Harshita772&theme=tokyonight&hide_border=false)
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harshita772&theme=github-compact)](https://github.com/Harshita772)
+
+
 <!--
 **Harshita772/Harshita772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
