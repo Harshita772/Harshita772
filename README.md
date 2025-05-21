@@ -12,7 +12,7 @@ I'm currently a third-year B.Tech student in **Electrical Engineering** at **IIT
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita772&show_icons=true&theme=radical)
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshita772&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshita772)
 
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita772&layout=compact&theme=radical)
