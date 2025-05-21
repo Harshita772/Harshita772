@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in **C
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita772&layout=compact&theme=radical)
 
-[![3D GitHub Profile](https://github.com/Harshita772/github-profile-3d-contrib/blob/main/profile-green-animate.svg)](https://github.com/Harshita772)
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **Harshita772/Harshita772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
