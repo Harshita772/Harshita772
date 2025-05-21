@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Harshita Vachhani
 
+Welcome to my GitHub! I'm a passionate developer with a strong foundation in **C++**, **Python**, and **web development**, and a special interest in **algorithms**, **data structures**, and **Machine learning**.
+
+ 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita772&show_icons=true&theme=radical)
 <!--
 **Harshita772/Harshita772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
