@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Harshita Vachhani </h2>
 
-I'm currently a third-year B.Tech student in **Electrical Engineering** at **IIT Jodhpur** . I'm passionate about programming, problem-solving, and building meaningful projects.
+I'm currently a Final year B.Tech student in **Electrical Engineering** at **IIT Jodhpur** . I'm passionate about programming, problem-solving, and building meaningful projects.
 
 - Currently exploring data science and full-stack development
 - Always open to collaboration and new learning opportunities
